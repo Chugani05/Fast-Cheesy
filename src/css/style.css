@@ -1,0 +1,10 @@
+body {
+    background: url(../assets/imgs/hero-bg.jpg) no-repeat center fixed;
+    background-size: cover;
+    color: white;
+}
+
+#index-footer {
+    position: absolute;
+    bottom: 0;
+}
