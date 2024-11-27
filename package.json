@@ -1,7 +1,7 @@
 {
   "name": "fast-cheesy",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Content - [Description](#description) - [Link](#link)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rashi Chugani",
   "license": "ISC",
   "devDependencies": {
     "gh-pages": "^6.2.0",
